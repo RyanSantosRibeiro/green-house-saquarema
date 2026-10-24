@@ -1,0 +1,189 @@
+[
+  {
+    "name": "symbol",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/01/cropped-Green-housefrfgre-270x270.png",
+    "width": 270,
+    "height": 270,
+    "variants": [
+      270
+    ]
+  },
+  {
+    "name": "quarto",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/08/552d1893-4812-4d1c-a252-ba9fba351450.webp",
+    "width": 960,
+    "height": 1280,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "surf3",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-17.38.40.webp",
+    "width": 828,
+    "height": 1474,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "surf2",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-17.38.42.webp",
+    "width": 828,
+    "height": 1453,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "logo",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/01/vdfv.png",
+    "width": 300,
+    "height": 100,
+    "variants": [
+      300
+    ]
+  },
+  {
+    "name": "varanda",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_0610-_1_-768x1024.webp",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "cozinha",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_3031-_1_-768x1024.webp",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "convivio",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_0613-1-768x1024.webp",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "escritorio",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_4947-768x1024.webp",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "comunidade",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_1599-768x1024.webp",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "coworking",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_4945-768x1024.webp",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "mesa",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_6346-768x1024.webp",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "jardim",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_2665-768x1024.webp",
+    "width": 768,
+    "height": 1024,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "chale",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/8645ba38-c3f1-4950-8158-443af00cd723.webp",
+    "width": 1200,
+    "height": 1600,
+    "variants": [
+      640,
+      1000
+    ]
+  },
+  {
+    "name": "coletivo",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-15-at-15.34.40-1-1080x1440.webp",
+    "width": 1080,
+    "height": 1440,
+    "variants": [
+      640,
+      1000
+    ]
+  },
+  {
+    "name": "surf",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/WhatsApp-Image-2024-09-05-at-17.38.41.jpeg",
+    "width": 1200,
+    "height": 1600,
+    "variants": [
+      640,
+      1000
+    ]
+  },
+  {
+    "name": "casa",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_5172-_1_-1024x768.webp",
+    "width": 1024,
+    "height": 768,
+    "variants": [
+      640,
+      1000
+    ]
+  },
+  {
+    "name": "camping",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/08/WhatsApp-Image-2024-08-15-at-15.34.40-e1725033466610-768x1364.png",
+    "width": 768,
+    "height": 1364,
+    "variants": [
+      640
+    ]
+  },
+  {
+    "name": "verde",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/09/IMG_5179-1024x1024.webp",
+    "width": 1024,
+    "height": 1024,
+    "variants": [
+      640,
+      1000
+    ]
+  },
+  {
+    "name": "saquarema",
+    "url": "https://greenhousesaqua.com.br/wp-content/uploads/2024/10/saquarema-2019-768x512_upscayl_3x_realesrgan-x4plus.webp",
+    "width": 2304,
+    "height": 1536,
+    "variants": [
+      640,
+      1000,
+      1600
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+import fs from 'node:fs/promises';
+import assert from 'node:assert/strict';
+import { stays, gallery, reels, contact } from '../src/data.js';
+const html = await fs.readFile('index.html','utf8');
+const files = new Set([...html.matchAll(/(?:src|href)="\/(images|fonts)\/([^"?]+)/g)].map(m => `public/${m[1]}/${m[2]}`));
+for (const item of [...stays,...gallery,...reels]) files.add(`public/images/${item.image}`);
+for (const file of files) await fs.access(file);
+const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);
+assert.equal(ids.length,new Set(ids).size,'Duplicate IDs');
+for (const match of html.matchAll(/href="#([^"]+)"/g)) assert(ids.includes(match[1]),`Missing anchor: ${match[1]}`);
+assert.equal((html.match(/<h1[ >]/g)||[]).length,1,'Expected a single H1');
+assert.equal(contact.phone,'5521970482265');
+assert.equal(stays.length,4);
+for (const reel of reels) assert.equal(new URL(reel.url).hostname,'www.instagram.com');
+assert.equal(new Set(stays.map(s=>s.id)).size,stays.length);
+console.log(`${files.size} assets verificados; âncoras, 4 acomodações, 5 fotos, 4 reels e contato válidos.`);

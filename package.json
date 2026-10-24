@@ -1,0 +1,14 @@
+{
+  "name": "greenhouse-saqua",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4189 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4189 --strictPort",
+    "check": "node scripts/check.mjs"
+  },
+  "dependencies": { "gsap": "^3.14.2" },
+  "devDependencies": { "vite": "^7.3.7", "sharp": "^0.35.5" }
+}
